@@ -3,7 +3,10 @@
 Welcome to the HR Analytics Dashboard project! This repository contains a Power BI-based interactive dashboard that analyzes employee data to support data-driven HR decisions.
 
 ![Screenshot (495)](https://github.com/keybouzair/HR_HR_ANALYTICS/blob/main/more%20hr%202.jpg)
+
 ---
+
+[Linked Profile ](https://www.linkedin.com/in/mohd-uzair-22813523b/).
 
 📁 Project Description
 
